@@ -1,0 +1,12 @@
+<john>hello
+<peter>hi
+<john>how are you?
+<peter>I'm fine thank you
+What about you?
+<john>I'm doing well too!
+<mary>Hi guys, I'm Mary
+can I join the conversation?
+<john>Hi Mary, sure... you are more than welcome!
+<peter>Hihi :)
+I'm Peter, nice to meet you
+<mary>nice to meet you too!

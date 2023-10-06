@@ -1,0 +1,11 @@
+<kent>Hi Bella, I'm Kent
+I found you on LinkedIn
+<bella>Hi Kent. I see, I'm looking for a job right now
+<kent>Great! We have a software engineering position in our company
+Would you like to try?
+<bella>Sure!
+can I know more about your company?
+<kent>Ofcourse, maybe we can have a quick interview tomorrow 10am?
+to introduce my company to you and also have a quick understand about you
+<bella>I'm totally fine with the interview time. See you tomorrow!
+<kent>look forward for our interview tomorrow :)
